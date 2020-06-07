@@ -9,8 +9,6 @@ r.seed()
 
 client=commands.Bot(command_prefix='_')
 
-Token = 'Njg3Nzg2NTc3MTc0MjAwMzYw.Xmq1Pg.vVnlLvROf0l1v-22SukYvJbnfUQ'
-
 client.remove_command('help') #a custom help command is made later
 
 # Variables
